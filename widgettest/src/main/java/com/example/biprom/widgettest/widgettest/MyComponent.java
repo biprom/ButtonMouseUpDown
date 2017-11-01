@@ -22,15 +22,17 @@ public class MyComponent extends com.vaadin.ui.AbstractComponent {
 
 		@Override
 		public void mouseDown(MouseEventDetails mouseDetails) {
-			getRpcProxy(MyComponentClientRpc.class).alert(
-					"Ok, Mouse is down!");
+//			getRpcProxy(MyComponentClientRpc.class).alert(
+//					"Ok, Mouse is down!");
+			System.out.println("mousebutton is down!");
 			
 		}
 
 		@Override
 		public void mouseUp(MouseEventDetails mouseDetails) {
-			getRpcProxy(MyComponentClientRpc.class).alert(
-					"Ok, Mouse is up!");
+//			getRpcProxy(MyComponentClientRpc.class).alert(
+//					"Ok, Mouse is up!");
+			System.out.println("mousebutton is up!");
 			
 		}
 	};  
