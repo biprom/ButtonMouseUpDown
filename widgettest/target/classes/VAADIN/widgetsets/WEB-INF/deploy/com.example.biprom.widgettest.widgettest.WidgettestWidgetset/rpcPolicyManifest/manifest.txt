@@ -1,0 +1,2 @@
+# Module com.example.biprom.widgettest.widgettest.WidgettestWidgetset
+# RPC service class, partial path of RPC policy file

@@ -1,0 +1,1 @@
+$wnd.com_example_biprom_widgettest_widgettest_WidgettestWidgetset.runAsyncCallback2('bib(1638,1,B6d);_.Rd=function Vkc(){X4b((!Q4b&&(Q4b=new a5b),Q4b),this.a.d)};z_d(gl)(2);\n//# sourceURL=com.example.biprom.widgettest.widgettest.WidgettestWidgetset-2.js\n')
